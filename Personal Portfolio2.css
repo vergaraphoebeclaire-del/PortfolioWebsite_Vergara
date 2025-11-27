@@ -1,0 +1,31 @@
+/*General*/
+.body{
+  font-family: Goregia;
+  margin:1;
+  Padding:0;
+  line-height:1.2;
+  background-color: palevioletred;
+  color: palevioletred;
+}
+.header{
+  background: palevioletred;
+  color:brown;
+  text-align:center;
+  Padding:40px 20px;
+}
+.profile-img{
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px . solid: voilet;
+  box-shadow: 0.2px rgba(175,41,41,0.1);
+  margin.bottom:15px;
+}
+.about{
+  background: cornsilk;
+  border-radius:40px;
+  box-shadow:0 2px 8px rgba(0,0,0,0.1);
+  margin-bottom: 15px;
+}
+

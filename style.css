@@ -34,4 +34,22 @@
   box-shadow:0 2px 8px rgba(0,0,0,0.1);
   margin-bottom: 15px;
 }
+.skills{
+  background: cornsilk;
+  border-radius:40px;
+  box-shadow:0 2px 8px rgba(0,0,0,0.1);
+  margin-bottom: 15px;
+}
+.project{
+  background: cornsilk;
+  border-radius:40px;
+  box-shadow:0 2px 8px rgba(0,0,0,0.1);
+  margin-bottom: 15px;
+}
+.contact{
+  background: cornsilk;
+  border-radius:40px;
+  box-shadow:0 2px 8px rgba(0,0,0,0.1);
+  margin-bottom: 15px;
+}
 
